@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
 
         MyFrame frame = new MyFrame();
-        System.out.println("hihi");
+        System.out.println("hoho");
 
     }
 
